@@ -22,6 +22,7 @@ return {
         "cue",
         "markdown",
         "make",
+        "toml",
       },
       sync_install = false,
       highlight = { enable = true },
