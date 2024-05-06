@@ -5,5 +5,5 @@ go install github.com/segmentio/golines@latest
 
 apt install -y npm
 
-pip install ruff mypy
+pip install ruff pylint mypy
 
